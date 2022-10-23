@@ -1,0 +1,5 @@
+{
+    "name": "nice-validator",
+    "rows":[{"pubFromCityID":"0","pubFromCityName":"不限"},{"pubFromCityID":"373","pubFromCityName":"东航联运"},{"pubFromCityID":"251","pubFromCityName":"东莞"},{"pubFromCityID":"319","pubFromCityName":"拉萨"},{"pubFromCityID":"243","pubFromCityName":"茂名"},{"pubFromCityID":"123","pubFromCityName":"宁波"},{"pubFromCityID":"405","pubFromCityName":"全省出发"},{"pubFromCityID":"236","pubFromCityName":"韶关"},{"pubFromCityID":"418","pubFromCityName":"芝加哥"},{"pubFromCityID":"244","pubFromCityName":"肇庆"}]
+}
+
